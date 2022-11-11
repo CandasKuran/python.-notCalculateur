@@ -1,0 +1,41 @@
+
+ -------- 
+ nom d'utilisateur :candas
+ nom du module : 310
+ test1: 4.0 
+test2: 4.0 
+examen : 4.0
+ moyenne : 4.0
+ Statut : succes
+ -------- 
+ nom d'utilisateur :candas
+ nom du module : 319
+ test1: 5.0 
+test2: 5.0 
+examen : 5.0
+ moyenne : 5.0
+ Statut : succes
+ -------- 
+ nom d'utilisateur :candas
+ nom du module : 162
+ test1: 5.0 
+test2: 6.0 
+examen : 6.0
+ moyenne : 5.8
+ Statut : succes
+ -------- 
+ nom d'utilisateur :candas
+ nom du module : 123
+ test1: 4.0 
+test2: 4.0 
+examen : 4.0
+ moyenne : 4.0
+ Statut : succes
+ -------- 
+ nom d'utilisateur :candas
+ nom du module : 123
+ test1: 2.0
+test2: 2.0
+examen : 2.0
+ moyenne : 2.0
+ Statut : echec
